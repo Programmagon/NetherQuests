@@ -1,0 +1,10 @@
+modLoader="java"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="netherquests"
+version="1.0.0"
+displayName="Nether Quests"
+authors="NetherEnde"
+description="Ein cooles Quest System fuer den Nether."
