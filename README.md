@@ -16,6 +16,15 @@ Features:
 - Dependencies on other quests
 - and many more...
 
+
+
+How to use:
+==========
+To edit use /netherquests edit to unlock editing
+Create, Edit & Delete Chapters and Quests
+NEW CONFIG
+Change almost everything
+
 Links: 
 ==========
 https://modrinth.com/mod/nether-quests
