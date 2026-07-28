@@ -20,10 +20,10 @@ Features:
 
 How to use:
 ==========
-To edit use /netherquests edit to unlock editing
-Create, Edit & Delete Chapters and Quests
-NEW CONFIG
-Change almost everything
+- To edit use /netherquests edit to unlock editing
+- Create, Edit & Delete Chapters and Quests
+- NEW CONFIG
+- Change almost everything
 
 Links: 
 ==========
